@@ -4,6 +4,6 @@ export default defineConfig({
   input: "./src/index.js",
   output: {
     file: "./dist/index.js",
-    format: "commonjs",
+    format: "cjs",
   },
 });
